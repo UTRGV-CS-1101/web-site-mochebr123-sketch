@@ -14,6 +14,14 @@ header{
 
 }
 
+.Tortoise_1{
+    display: flex;
+    justify-content:center;
+}
+.Tortoise_Body{
+    background-color:darkgreen;
+}
+
 body{
     background-color: salmon;
     color: white;
