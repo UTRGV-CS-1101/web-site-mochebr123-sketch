@@ -36,7 +36,7 @@ a:hover {
     width: 25%;
     color: coral;
     font-style: italic;
-    text-decoration: line-through;
+    text-decoration:underline;
     background-color: aqua;
 }
 

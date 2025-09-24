@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: teal;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.grey_container{ 
+    background-color: gray;
+    text-align:center;
+    width: 80%;
+    margin: 0 auto; 
+
+}
+
+body{
+    background-color: salmon;
+    color: white;
+}
+
+header{
+    color: white;
+}
+
+
+
+    
