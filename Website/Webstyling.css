@@ -19,7 +19,11 @@ header{
     justify-content:center;
 }
 .Tortoise_Body{
-    background-color:darkgreen;
+    background-color:darkgreen;                                                                        
+}
+
+.Tortoise_Header{
+    text-align:center;
 }
 
 body{
@@ -31,6 +35,51 @@ header{
     color: white;
 }
 
+.green_container{
+    background-color: grey;
+    text-align:center;
+    width: 80%; 
+    margin: 0 auto; 
+    
+}
 
+.Dogs_Body{
+    background-color:orange;
+
+}
+
+.Dogs_1{
+    display: flex; 
+    justify-content: center;
+}
+
+.Dogs_Header{
+    text-align:center;
+}
+
+.troll_container{
+    color: white;
+    text-align:center;
+    width:80%;
+    margin: 0 auto;
+background-color: navy;
+
+}
+
+a{
+   text-decoration:none;  
+}
+a:hover {
+    text-decoration:underline; 
+}
+
+.baldi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    width:50%
+}
 
     
