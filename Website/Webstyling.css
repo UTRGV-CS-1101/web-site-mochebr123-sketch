@@ -68,6 +68,7 @@ background-color: navy;
 
 a{
    text-decoration:none;  
+
 }
 a:hover {
     text-decoration:underline; 
@@ -82,4 +83,31 @@ a:hover {
     width:50%
 }
 
+.aboutme_h1{
+    text-align:center;
+}
+.dogbutton{
+    text-align:center;
+}
+
+.tortoisebutton{
+    text-align:center;
+}
+
+.am_bulletedlist{
+    text-align:center;
+}
+ul{
+   display:inline-block;
+   text-align:left;
+}
+
+.am_button{
+    text-align:center;
+}
+
+.Smiles{
+   display:flex;
+   justify-content:center;
+}
     
